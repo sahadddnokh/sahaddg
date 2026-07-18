@@ -1,0 +1,6 @@
+{
+  "name": "Saadul Islam Portfolio",
+  "description": "World-class ultra-luxury 3D portfolio website for Saadul Islam, featuring cinematic animations, interactive 3D-like floating objects, premium progress visualizers, and a real-time AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
